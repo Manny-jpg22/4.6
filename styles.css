@@ -1,0 +1,79 @@
+/* Page background */
+body {
+  background-color: #f0f2f5;
+  font-family: Arial, sans-serif;
+  color: #333333;
+  margin: 0;
+}
+
+/* Header */
+header {
+  background-color: #142d4e;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+#page-title {
+  font-size: 35px;
+}
+
+/* Main section */
+main {
+  text-align: center;
+  margin: 20px;
+}
+
+/* Cards */
+.card {
+  background-color: white;
+  border: 2px solid #d1d9e2;
+  padding: 20px;
+  margin: 15px;
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+/* Headings */
+.subheading {
+  color: #142d4e;
+  border-bottom: 2px solid #aebdca;
+  padding-bottom: 5px;
+}
+
+/* About section */
+.about {
+  text-align: left;
+}
+
+.about span {
+  color: #315d85;
+  font-weight: bold;
+}
+
+/* Favorite tags */
+.tag {
+  background-color: #d1d9e2;
+  color: #142d4e;
+  padding: 8px;
+  margin: 5px;
+  display: inline-block;
+}
+
+/* Contact section */
+.contact {
+  text-align: left;
+}
+
+.contact a {
+  color: #315d85;
+}
+
+/* Footer */
+.footer {
+  background-color: #142d4e;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
